@@ -1,0 +1,13 @@
+Wheel 1 is moving
+Wheel 2 is moving
+Wheel 3 is moving
+Wheel 4 is moving
+
+The engine is running
+This door has opened
+This door has opened
+This door has opened
+This door has opened
+
+The Wheels have stopped
+The doors have closed
